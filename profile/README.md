@@ -1,4 +1,4 @@
-<img alt="Biro UI Thumbnail" src="https://user-images.githubusercontent.com/94678583/207058538-937e73c0-0d6d-445e-baca-c271f72bd78d.png">
+![Biro Design System Banner](https://user-images.githubusercontent.com/94678583/207064259-62a0ff66-0d94-4e6e-8533-c9391cee76fa.png)
 
 **Biro UI** is a personal and open-source modern design system and UI framework created by Kuroji
 Fusky; with a set of conventions inspired by popular design systems from Fandom Wiki,
@@ -14,7 +14,5 @@ his works and the main reason why I just chose this initially as a codename is b
 not particularly good at coming up good names for any projects I work on (lol), but
 overtime, I just sticked to it and make it as the final project name instead.
 
-In short: so I chose Biro as I was not only a huge fan, but also something that I can easily
+In short: I chose Biro as I was not only a huge fan, but also something that I can easily
 remember for both its codename and the project name.
-
-----
