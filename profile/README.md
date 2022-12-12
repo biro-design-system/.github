@@ -8,7 +8,7 @@ Google, and Microsoft.
 
 I got the name **Biro** from the *Art & Biro* webcomic by Paco Panda — I was a huge fan of
 his works and the main reason why I just chose this initially as a codename is because I’m
-not particularly good at coming up and good names for any projects I work on (lol), but
+not particularly good at coming up good names for any projects I work on (lol), but
 overtime, I just sticked to it and make it as the final project name instead.
 
 In short: so I chose Biro as I was not only a huge fan, but also something that I can easily
