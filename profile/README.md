@@ -1,8 +1,11 @@
-<img alt="Thumbnail" src="https://user-images.githubusercontent.com/94678583/207058538-937e73c0-0d6d-445e-baca-c271f72bd78d.png">
+<img alt="Biro UI Thumbnail" src="https://user-images.githubusercontent.com/94678583/207058538-937e73c0-0d6d-445e-baca-c271f72bd78d.png">
 
-**Biro UI** is a personal and open-source design system and UI framework created by Kuroji
-Fusky; with a set of conventions inspired by popular design systems by Fandom Wiki,
+**Biro UI** is a personal and open-source modern design system and UI framework created by Kuroji
+Fusky; with a set of conventions inspired by popular design systems from Fandom Wiki,
 Google, and Microsoft.
+
+Creating an all-in-one place for projects can be helpful, be it the ones I collaborate or
+personal projects to be in-sync with the convention and standards from this design system!
 
 ## Why is it called "Biro"?
 
@@ -13,3 +16,5 @@ overtime, I just sticked to it and make it as the final project name instead.
 
 In short: so I chose Biro as I was not only a huge fan, but also something that I can easily
 remember for both its codename and the project name.
+
+----
